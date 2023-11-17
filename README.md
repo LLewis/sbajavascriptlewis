@@ -1,7 +1,11 @@
 # sbajavascriptlewis
 My SBA JavaScript project
 Technologies 
-   JavaScript
-   HTML
-   CSS
+<ul>
+   <li>JavaScript</li>
+   <li>CSS</li>
+   <li>HTML</li>
+   
+</ul>
+  
    
